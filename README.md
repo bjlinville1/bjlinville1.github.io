@@ -1,4 +1,4 @@
 bjlinville1.github.io
 =====================
 
-My web development portfolio page
+My web development portfolio
